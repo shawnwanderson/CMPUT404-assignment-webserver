@@ -1,3 +1,10 @@
+Shawn Anderson Submission Assignment 1
+No Collaborators
+Information and code snippets used from:
+	https://www.jmarshall.com/easy/http/
+	http://www.opensource.apple.com/source/python/python-3/python/Lib/SimpleHTTPServer.py
+	http://docstore.mik.ua/orelly/other/python/0596001886_pythonian-chp-19-sect-2.html
+
 CMPUT404-assignment-webserver
 =============================
 
@@ -16,6 +23,7 @@ server.py contains contributions from:
 
 * Abram Hindle
 * Eddie Antonio Santos
+* Shawn Anderson
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
